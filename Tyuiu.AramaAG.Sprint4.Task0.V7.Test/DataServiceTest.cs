@@ -5,7 +5,7 @@ using Tyuiu.AramaAG.Sprint4.Task0.V7.Lib;
 namespace Tyuiu.AramaAG.Sprint4.Task0.V7.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class DataServiceTest
     {
         [TestMethod]
         public void ValidCalc()
