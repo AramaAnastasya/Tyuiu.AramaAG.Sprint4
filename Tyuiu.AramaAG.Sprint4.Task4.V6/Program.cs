@@ -17,7 +17,7 @@ namespace Tyuiu.AramaAG.Sprint4.Task4.V6
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (ввод с клавиатуры)                            *");
             Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #6                                                             *");
+            Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Выполнил: Арама Анастасия Георгиевна | СМАРТб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
